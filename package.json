@@ -1,0 +1,16 @@
+{
+  "description": "undefined",
+  "main": "index.tsx",
+  "dependencies": {
+    "@ant-design/icons": "^4.6.0",
+    "@ant-design/icons-svg": "4.2.1",
+    "@antv/xflow": "1.0.48",
+    "antd": "^4.6.3",
+    "lodash": "^4.17.20",
+    "react": "18.2.0",
+    "react-dom": "18.2.0"
+  },
+  "devDependencies": {
+    "typescript": "^4"
+  }
+}
